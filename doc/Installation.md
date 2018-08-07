@@ -9,7 +9,7 @@ sudo apt-get install libsdl1.2-dev libosmesa6-dev
 ```
 sudo apt-get install ros-kinetic-realsense-camera
 ```
-If you want to use realsense2_camera, just refer to the [Realsense Installation](https://ids-git.fzi.de/lou/panda_object_detection/blob/master/3_doc/Realsense_Initialization.md)
+If you want to use realsense2_camera, just refer to the [Realsense Installation](https://github.com/robinloujun/robina_object_detection/blob/master/doc/Realsense_Initialization.md)
 
 ## kinetic_camera
 ```
