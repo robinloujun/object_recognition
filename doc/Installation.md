@@ -7,6 +7,13 @@ sudo apt-get install libsdl1.2-dev libosmesa6-dev
 
 ## realsense_camera
 ```
+# for dependency - librealsense
+wget -O enable_kernel_sources.sh http://bit.ly/en_krnl_src
+bash ./enable_kernel_sources.sh
+sudo apt-get update
+sudo apt-get install linux-image-generic-lts-xenial
+sudo reboot
+sudo apt-get dist-upgrade
 sudo apt-get install ros-kinetic-realsense-camera
 ```
 If you want to use realsense2_camera, just refer to the [Realsense Installation](https://github.com/robinloujun/robina_object_detection/blob/master/doc/Realsense_Initialization.md)
