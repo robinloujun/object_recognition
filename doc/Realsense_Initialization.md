@@ -33,8 +33,7 @@ system (with Script)
 
 # Initialization for the Intel RealSense SDK 2.0
 
-[**Intel RealSense SDK 2.0**]
-(https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md) 
+[**Intel RealSense SDK 2.0**](https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md) 
 is a cross-platform library for Intel RealSense depth cameras (D400 series and the SR300).
 
 - Add Intel server  to the list of repositories :  
