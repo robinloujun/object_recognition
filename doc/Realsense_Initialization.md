@@ -20,8 +20,10 @@ system (with Script)
   bash ./enable_kernel_sources.sh`
 
 - Update to the Xenial kernel  
-  `sudo apt-get install linux-image-generic-lts-xenial
-  sudo reboot`
+  ```
+  sudo apt-get install linux-image-generic-lts-xenial
+  sudo reboot
+  ```
 
 - Install the librealsense Package  
   `sudo apt-get install 'ros-kinetic-librealsense'`
