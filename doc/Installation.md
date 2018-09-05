@@ -49,7 +49,7 @@ sudo apt-get install ros-kinetic-object-recognition-core
 
 Download & Build from Source  
 ```
-sudo apt-get install libopenni-dev ros-kinetic-catkin ros-kinetic-ecto*\
+sudo apt-get install libopenni-dev ros-kinetic-catkin ros-kinetic-ecto* \
 ros-kinetic-opencv-candidate ros-kinetic-moveit-msgs
 source /opt/ros/kinetic/setup.sh
 ```
