@@ -18,9 +18,9 @@ sudo apt-get install ros-kinetic-realsense-camera
 ```
 If you want to use realsense2_camera, just refer to the [Realsense Installation](https://github.com/robinloujun/robina_object_detection/blob/master/doc/Realsense_Initialization.md)
 
-## kinetic_camera
+## kinect_camera
 ```
-sudo apt-get install ros-kinect-openni-camera ros-kinect-openni-launch
+sudo apt-get install ros-kinetic-openni-camera ros-kinetic-openni-launch
 ```
 
 ## ecto
