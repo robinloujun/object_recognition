@@ -1,4 +1,4 @@
-This function is based on the [ObjRecRANSAC](https://github.com/tum-mvp/ObjRecRANSAC) 
+This function is based on the [ObjRecRANSAC](https://github.com/tum-mvp/ObjRecRANSAC) using a RealSense RGBD camera.
 - RANSAC variant for 3D object recognition in occluded scenes 
 
 # Dependencies
@@ -13,9 +13,9 @@ This function is based on the [ObjRecRANSAC](https://github.com/tum-mvp/ObjRecRA
 # Compile
 
 ```
-cd panda_object_detection/5_ObjRecRANSAC/
+cd /Path/To/RANSAC
 mkdir build
 cd build
 cmake ..
-make -j4
+make -j[n] # Allow n jobs at once; infinite jobs without argument -j.
 ```
