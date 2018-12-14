@@ -16,7 +16,7 @@ sudo reboot
 sudo apt-get dist-upgrade
 sudo apt-get install ros-kinetic-realsense-camera
 ```
-If you want to use realsense2_camera, just refer to the [Realsense Installation](https://github.com/robinloujun/robina_object_detection/blob/master/doc/Realsense_Initialization.md)
+If you want to use realsense2_camera, just refer to the [Realsense Installation](https://github.com/robinloujun/object_recognition/blob/master/doc/Realsense_Initialization.md#initialization-for-the-realsense-package)
 
 ## kinect_camera
 ```
